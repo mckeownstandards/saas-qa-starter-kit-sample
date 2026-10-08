@@ -2,7 +2,7 @@
 
 Two ready-to-use QA documents for engineering-led SaaS teams: a **bug report template** and the **defect lifecycle workflow** that goes with it. Both in plain Markdown — drop them into GitHub, Linear, Jira, or Notion and use them today.
 
-This is a free sample from the full [SaaS QA Starter Kit](https://mckeownstandards.gumroad.com/l/qa-starter-kit). These two documents are complete and usable on their own — no sign-up, no email wall. Fork the repo, take what's useful, ignore the rest.
+This is a free sample from the full SaaS Starter Kit that can be found on Gumroad. These two documents are complete and usable on their own — no sign-up, no email wall. Fork the repo, take what's useful, ignore the rest.
 
 ---
 
@@ -50,12 +50,10 @@ If these two documents are useful, the complete **SaaS QA Starter Kit** contains
 
 It's the same philosophy as this sample, extended across every part of the process — so a team with no QA function can have a real testing process in an afternoon.
 
-👉 **Get the full kit:** [SaaS QA Starter Kit](https://mckeownstandards.gumroad.com/l/qa-starter-kit)
-
 ---
 
 ## Feedback welcome
 
 Found these useful? Spotted something that could be better? Open an issue or get in touch — this kit improves through real teams using it.
 
-Built by Niall McKeown — verification engineer, four years in regulated medical-device QA.
+Built by Niall McKeown, a QA engineer with 3.5 years in software verification for FDA-cleared health algorithms.
